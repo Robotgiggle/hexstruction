@@ -1,5 +1,9 @@
 {
   hexcasting: {
+    iota: {
+      "hexstruction:structure": "Structure",
+      "hexstruction:structure.desc": "a structure iota"
+    },
     action: {
       "hexstruction:": {
         save_structure: "Devour Structure",
